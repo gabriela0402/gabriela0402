@@ -21,9 +21,9 @@
 ---
 
 ## 💜 Sobre Mim
-* Estudante de Informática para Internet.
-* Focada em criar aplicações web modernas, funcionais e visualmente marcantes.
-* Apaixonada por UI/UX, tipografia e design limpo.
+* Completamente fascinada pelo universo da tecnologia e por transformar linhas de código em soluções reais.
+* Focada em criar aplicações web modernas, robustas, funcionais e altamente escaláveis.
+* Entusiasta de UI/UX, sempre atenta aos detalhes para alinhar uma lógica forte a interfaces visualmente marcantes e intuitivas.
 
 ---
 

@@ -1,44 +1,25 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Olá,%20sou%20a%20Gabriela!%20&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=280&section=header&text=Gabriela%20Martins&fontSize=50&fontColor=ffffff&animation=fadeIn&gradientColors=7b2cbf,9d4edd,c77dff" width="100%" />
 
-  <p align="center">
-    <strong>Full Stack Developer</strong> 
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Desenvolvendo%20Ideias-9d4edd?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack-7b2cbf?style=for-the-badge&logoColor=white" />
-  </p>
-
-  ---
-
-  <h3>My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/gabriela0402/gabriela0402/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-</div>
-
----
-
-## 💜 Sobre Mim
-*  Estudante de Informática para Internet.
-* Focada em criar aplicações web modernas, funcionais e visualmente marcantes.
-* Apaixonada por UI/UX, tipografia e design limpo.
-
----
-
-## Tecnologias & Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/STATUS-CODANDO_%E2%9C%A8-7B2CBF?style=for-the-badge&labelColor=2D2D5E&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%26_UI%2FUX-9D4EDD?style=for-the-badge&labelColor=2D2D5E&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL_%F0%9F%87%A7%F0%9F%87%B7-C77DFF?style=for-the-badge&labelColor=2D2D5E&logo=mapsdotcom&logoColor=white" />
+
 </div>
 
+---
 
+## ✨ Sobre mim
 
+```text
+🎓 Estudante de Informática para Internet  
+💡 Transformando ideias em experiências digitais  
+🎨 Minimalista funcional — amo UI/UX, tipografia e atenção aos detalhes  
+🚀 Em busca do próximo projeto criativo e desafiador

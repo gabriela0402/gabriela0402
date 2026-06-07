@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Olá,%20sou%20a%20Gabriela!%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Olá,%20sou%20a%20Gabriela!%20&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <p align="center">
     <strong>Full Stack Developer | UI/UX Enthusiast</strong> 🚀
@@ -21,13 +21,13 @@
 ---
 
 ## 💜 Sobre Mim
-* 🎓 Estudante de Desenvolvimento de Sistemas.
-* 💻 Focada em criar aplicações web modernas, funcionais e visualmente marcantes.
-* 🎨 Apaixonada por UI/UX, tipografia e design limpo.
+*  Estudante de Informática para Internet.
+* Focada em criar aplicações web modernas, funcionais e visualmente marcantes.
+* Apaixonada por UI/UX, tipografia e design limpo.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub (Tema Roxo)
+##Estatísticas do GitHub (Tema Roxo)
 
 <div align="center">
   <br />

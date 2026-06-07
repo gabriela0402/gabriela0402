@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Olá,%20sou%20a%20Gabriela!%20&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <p align="center">
-    <strong>Full Stack Developer | UI/UX Enthusiast</strong> 🚀
+    <strong>Full Stack Developer</strong> 
   </p>
 
   <p align="center">
@@ -13,7 +13,7 @@
 
   ---
 
-  <h3>👾 My Contribution Snake</h3>
+  <h3>My Contribution Snake</h3>
   <img src="https://raw.githubusercontent.com/gabriela0402/gabriela0402/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
@@ -40,18 +40,5 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
----
 
-##Estatísticas do GitHub (Tema Roxo)
 
-<div align="center">
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriela0402&show_icons=true&theme=purple&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela0402&layout=compact&theme=purple" />
-</div>
-
-<br />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriela0402&color=9d4edd&style=flat-square&label=PROFILE+VIEWS+👀" alt="Views" />
-</p>
